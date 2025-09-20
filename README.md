@@ -1,4 +1,6 @@
-# Test Task - Shot Ball
+🎮 CubeMerge 3D — TestTaskAltaGames
+<p align="center"> <a href="https://www.youtube.com/watch?v=tkuuGagN_kM&t=13s" target="_blank"> <img src="https://img.youtube.com/vi/tkuuGagN_kM/0.jpg" alt="Watch the demo" /> </a> </p> <p align="center"> <a href="https://www.youtube.com/watch?v=tkuuGagN_kM&t=13s" target="_blank"> <img src="https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" /> </a> </p>
+
 Gameplay : On the screen is the balloon player in the lower left corner, and the target in the upper right corner, where the ball must hit. The path is blocked by obstacles. The ball player creates shots due to its size, it is necessary to clear a path for the ball player to jump along the cleared path to the final goal.
 
 ---
